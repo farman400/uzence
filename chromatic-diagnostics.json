@@ -1,0 +1,418 @@
+{
+  "announcedBuild": {
+    "id": "68c2eb3794463ed0234267e7",
+    "number": 6,
+    "status": "ANNOUNCED",
+    "autoAcceptChanges": false,
+    "app": {
+      "id": "68c2e5efa9488f55cec4e44d",
+      "turboSnapAvailability": "UNAVAILABLE"
+    }
+  },
+  "configuration": {},
+  "environment": {},
+  "exitCode": 255,
+  "exitCodeKey": "UNKNOWN_ERROR",
+  "fileInfo": {
+    "lengths": [
+      {
+        "pathname": "AliasCheck.stories.js",
+        "contentLength": 452,
+        "knownAs": "AliasCheck.stories.js"
+      },
+      {
+        "pathname": "Button.css",
+        "contentLength": 522,
+        "knownAs": "Button.css"
+      },
+      {
+        "pathname": "Button.js",
+        "contentLength": 1219,
+        "knownAs": "Button.js"
+      },
+      {
+        "pathname": "Button.stories.js",
+        "contentLength": 1206,
+        "knownAs": "Button.stories.js"
+      },
+      {
+        "pathname": "DataTable.stories.js",
+        "contentLength": 4685,
+        "knownAs": "DataTable.stories.js"
+      },
+      {
+        "pathname": "Header.css",
+        "contentLength": 514,
+        "knownAs": "Header.css"
+      },
+      {
+        "pathname": "Header.js",
+        "contentLength": 1776,
+        "knownAs": "Header.js"
+      },
+      {
+        "pathname": "Header.stories.js",
+        "contentLength": 699,
+        "knownAs": "Header.stories.js"
+      },
+      {
+        "pathname": "InputField.js",
+        "contentLength": 3651,
+        "knownAs": "InputField.js"
+      },
+      {
+        "pathname": "InputField.stories.js",
+        "contentLength": 3067,
+        "knownAs": "InputField.stories.js"
+      },
+      {
+        "pathname": "Page.css",
+        "contentLength": 913,
+        "knownAs": "Page.css"
+      },
+      {
+        "pathname": "Page.stories.js",
+        "contentLength": 3473,
+        "knownAs": "Page.stories.js"
+      },
+      {
+        "pathname": "favicon-wrapper.svg",
+        "contentLength": 5803,
+        "knownAs": "favicon-wrapper.svg"
+      },
+      {
+        "pathname": "favicon.svg",
+        "contentLength": 2163,
+        "knownAs": "favicon.svg"
+      },
+      {
+        "pathname": "iframe.html",
+        "contentLength": 17999,
+        "knownAs": "iframe.html"
+      },
+      {
+        "pathname": "iframe.js",
+        "contentLength": 1227924,
+        "knownAs": "iframe.js"
+      },
+      {
+        "pathname": "index.html",
+        "contentLength": 2917,
+        "knownAs": "index.html"
+      },
+      {
+        "pathname": "index.js",
+        "contentLength": 115,
+        "knownAs": "index.js"
+      },
+      {
+        "pathname": "index.json",
+        "contentLength": 4791,
+        "knownAs": "index.json"
+      },
+      {
+        "pathname": "jsx-runtime.js",
+        "contentLength": 7761,
+        "knownAs": "jsx-runtime.js"
+      },
+      {
+        "pathname": "nunito-sans-bold-italic.woff2",
+        "contentLength": 49460,
+        "knownAs": "nunito-sans-bold-italic.woff2"
+      },
+      {
+        "pathname": "nunito-sans-bold.woff2",
+        "contentLength": 47144,
+        "knownAs": "nunito-sans-bold.woff2"
+      },
+      {
+        "pathname": "nunito-sans-italic.woff2",
+        "contentLength": 49620,
+        "knownAs": "nunito-sans-italic.woff2"
+      },
+      {
+        "pathname": "nunito-sans-regular.woff2",
+        "contentLength": 47072,
+        "knownAs": "nunito-sans-regular.woff2"
+      },
+      {
+        "pathname": "preload-helper.js",
+        "contentLength": 1234,
+        "knownAs": "preload-helper.js"
+      },
+      {
+        "pathname": "project.json",
+        "contentLength": 799,
+        "knownAs": "project.json"
+      },
+      {
+        "pathname": "react-18.js",
+        "contentLength": 178426,
+        "knownAs": "react-18.js"
+      },
+      {
+        "pathname": "sb-addons/common-manager-bundle.js",
+        "contentLength": 588702,
+        "knownAs": "sb-addons/common-manager-bundle.js"
+      },
+      {
+        "pathname": "sb-common-assets/favicon-wrapper.svg",
+        "contentLength": 5803,
+        "knownAs": "sb-common-assets/favicon-wrapper.svg"
+      },
+      {
+        "pathname": "sb-common-assets/favicon.svg",
+        "contentLength": 2163,
+        "knownAs": "sb-common-assets/favicon.svg"
+      },
+      {
+        "pathname": "sb-common-assets/nunito-sans-bold-italic.woff2",
+        "contentLength": 49460,
+        "knownAs": "sb-common-assets/nunito-sans-bold-italic.woff2"
+      },
+      {
+        "pathname": "sb-common-assets/nunito-sans-bold.woff2",
+        "contentLength": 47144,
+        "knownAs": "sb-common-assets/nunito-sans-bold.woff2"
+      },
+      {
+        "pathname": "sb-common-assets/nunito-sans-italic.woff2",
+        "contentLength": 49620,
+        "knownAs": "sb-common-assets/nunito-sans-italic.woff2"
+      },
+      {
+        "pathname": "sb-common-assets/nunito-sans-regular.woff2",
+        "contentLength": 47072,
+        "knownAs": "sb-common-assets/nunito-sans-regular.woff2"
+      },
+      {
+        "pathname": "sb-manager/globals-module-info.js",
+        "contentLength": 17751,
+        "knownAs": "sb-manager/globals-module-info.js"
+      },
+      {
+        "pathname": "sb-manager/globals-runtime.js",
+        "contentLength": 2126392,
+        "knownAs": "sb-manager/globals-runtime.js"
+      },
+      {
+        "pathname": "sb-manager/globals.js",
+        "contentLength": 1564,
+        "knownAs": "sb-manager/globals.js"
+      },
+      {
+        "pathname": "sb-manager/runtime.js",
+        "contentLength": 443128,
+        "knownAs": "sb-manager/runtime.js"
+      },
+      {
+        "pathname": "vite-inject-mocker-entry.js",
+        "contentLength": 28745,
+        "knownAs": "vite-inject-mocker-entry.js"
+      },
+      {
+        "pathname": "vite.svg",
+        "contentLength": 1497,
+        "knownAs": "vite.svg"
+      }
+    ],
+    "paths": [
+      "AliasCheck.stories.js",
+      "Button.css",
+      "Button.js",
+      "Button.stories.js",
+      "DataTable.stories.js",
+      "Header.css",
+      "Header.js",
+      "Header.stories.js",
+      "InputField.js",
+      "InputField.stories.js",
+      "Page.css",
+      "Page.stories.js",
+      "favicon-wrapper.svg",
+      "favicon.svg",
+      "iframe.html",
+      "iframe.js",
+      "index.html",
+      "index.js",
+      "index.json",
+      "jsx-runtime.js",
+      "nunito-sans-bold-italic.woff2",
+      "nunito-sans-bold.woff2",
+      "nunito-sans-italic.woff2",
+      "nunito-sans-regular.woff2",
+      "preload-helper.js",
+      "project.json",
+      "react-18.js",
+      "sb-addons/common-manager-bundle.js",
+      "sb-common-assets/favicon-wrapper.svg",
+      "sb-common-assets/favicon.svg",
+      "sb-common-assets/nunito-sans-bold-italic.woff2",
+      "sb-common-assets/nunito-sans-bold.woff2",
+      "sb-common-assets/nunito-sans-italic.woff2",
+      "sb-common-assets/nunito-sans-regular.woff2",
+      "sb-manager/globals-module-info.js",
+      "sb-manager/globals-runtime.js",
+      "sb-manager/globals.js",
+      "sb-manager/runtime.js",
+      "vite-inject-mocker-entry.js",
+      "vite.svg"
+    ],
+    "statsPath": "",
+    "total": 5074446,
+    "hashes": {
+      "AliasCheck.stories.js": "4649876fd2f03017",
+      "Button.css": "8829bff3b4c34c7a",
+      "Button.js": "e1baf02b34662c99",
+      "Button.stories.js": "8473d92c196209c7",
+      "DataTable.stories.js": "3595133faa724adc",
+      "Header.css": "a52003ab7e8055c2",
+      "Header.js": "4ef3181e6527bfa3",
+      "Header.stories.js": "7d0e2d53cfacd6c3",
+      "InputField.js": "7a487aaebcaa34a0",
+      "InputField.stories.js": "a9e57edcb51e3a92",
+      "Page.css": "b086cbcf64f944ed",
+      "Page.stories.js": "bc36dd3d1e6c2a01",
+      "favicon-wrapper.svg": "ac2f5da4f59a4ab7",
+      "favicon.svg": "d3380c3fb63a8430",
+      "iframe.html": "872a18593c31ed37",
+      "iframe.js": "1b28e0922ff13e21",
+      "index.html": "986a0da8a63e5ac5",
+      "index.js": "e7d4a8df8c565598",
+      "index.json": "aba127cff3378e13",
+      "jsx-runtime.js": "50ab0a4577153b49",
+      "nunito-sans-bold-italic.woff2": "d64464b3594b3fb9",
+      "nunito-sans-bold.woff2": "0bd5b61b7fb7f7d5",
+      "nunito-sans-italic.woff2": "b7807d9de055e9a0",
+      "nunito-sans-regular.woff2": "6687b7be04c2debe",
+      "preload-helper.js": "bedf453d42a798f7",
+      "project.json": "c04389eb4c3cab55",
+      "react-18.js": "89c05748999afd94",
+      "sb-addons/common-manager-bundle.js": "ac7ba6bf8a7c22c9",
+      "sb-common-assets/favicon-wrapper.svg": "ac2f5da4f59a4ab7",
+      "sb-common-assets/favicon.svg": "d3380c3fb63a8430",
+      "sb-common-assets/nunito-sans-bold-italic.woff2": "d64464b3594b3fb9",
+      "sb-common-assets/nunito-sans-bold.woff2": "0bd5b61b7fb7f7d5",
+      "sb-common-assets/nunito-sans-italic.woff2": "b7807d9de055e9a0",
+      "sb-common-assets/nunito-sans-regular.woff2": "6687b7be04c2debe",
+      "sb-manager/globals-module-info.js": "b18a86dfca78a76c",
+      "sb-manager/globals-runtime.js": "ec79d8f50c885fce",
+      "sb-manager/globals.js": "65b5882f82eea1c2",
+      "sb-manager/runtime.js": "8d632c50f93f5869",
+      "vite-inject-mocker-entry.js": "268d806afddb795d",
+      "vite.svg": "b81e9b0882317145"
+    }
+  },
+  "flags": {
+    "storybookBuildDir": [
+      "storybook-static"
+    ],
+    "debug": true,
+    "outputDir": [],
+    "externals": [],
+    "onlyStoryFiles": [],
+    "onlyStoryNames": [],
+    "untraced": [],
+    "fileHashing": true,
+    "interactive": true
+  },
+  "git": {
+    "version": "2.39.5",
+    "gitUserEmail": "farmanwin@gmail.com",
+    "uncommittedHash": "ff34dc438c4e5a8171355c93ce49ae65ebc7ad38",
+    "rootPath": "/Users/mohammedfarman/Internship_assignment/uzence-assignment",
+    "commit": "b2ccbb7f1a3ac11c7965552cc57dfc162d79b168",
+    "committedAt": 1757589235000,
+    "committerEmail": "farmanwin@gmail.com",
+    "committerName": "farman400",
+    "branch": "main",
+    "slug": "farman400/uzence",
+    "fromCI": false,
+    "parentCommits": []
+  },
+  "input": [],
+  "isOnboarding": true,
+  "options": {
+    "fromCI": false,
+    "inAction": false,
+    "dryRun": false,
+    "debug": true,
+    "autoAcceptChanges": false,
+    "exitZeroOnChanges": false,
+    "exitOnceUploaded": false,
+    "diagnosticsFile": "chromatic-diagnostics.json",
+    "fileHashing": true,
+    "interactive": false,
+    "isLocalBuild": false,
+    "originalArgv": [
+      "--project-token=chpt_9805bdcab3f13e3",
+      "--storybook-build-dir=storybook-static",
+      "--debug"
+    ],
+    "logFile": "chromatic.log",
+    "forceRebuild": true,
+    "storybookBuildDir": "storybook-static",
+    "storybookLogFile": "build-storybook.log",
+    "branchName": ""
+  },
+  "packageJson": {
+    "name": "uzence-assignment",
+    "version": "1.0.0",
+    "private": true,
+    "type": "module",
+    "scripts": {
+      "dev": "vite",
+      "build": "vite build",
+      "preview": "vite preview",
+      "storybook": "storybook dev -p 6006",
+      "build-storybook": "storybook build",
+      "deploy-storybook": "npm run build-storybook -- --output-dir=storybook-static && npx chromatic --project-token=chpt_9805bdcab3f13e3 --storybook-build-dir=storybook-static --debug"
+    },
+    "dependencies": {
+      "clsx": "^2.1.1",
+      "react": "^18.3.1",
+      "react-dom": "^18.3.1"
+    },
+    "devDependencies": {
+      "@types/react": "^18.3.24",
+      "@types/react-dom": "^18.3.7",
+      "@vitejs/plugin-react": "^5.0.2",
+      "autoprefixer": "^10.4.15",
+      "chromatic": "^13.1.4",
+      "eslint-plugin-storybook": "^9.1.5",
+      "postcss": "^8.4.31",
+      "tailwindcss": "^3.4.1",
+      "typescript": "^5.3.3",
+      "vite": "^5.2.0"
+    }
+  },
+  "packagePath": "/Users/mohammedfarman/Internship_assignment/uzence-assignment/package.json",
+  "projectMetadata": {
+    "hasRouter": false,
+    "creationDate": {},
+    "storybookCreationDate": {},
+    "numberOfCommitters": 1,
+    "numberOfAppFiles": 2
+  },
+  "runtimeMetadata": {
+    "nodePlatform": "darwin",
+    "nodeVersion": "24.5.0",
+    "packageManager": "npm",
+    "packageManagerVersion": "11.5.1"
+  },
+  "sentinelUrls": [],
+  "sessionId": "dc04d7f9-0a6d-4064-a409-85160f99b63d",
+  "sourceDir": "storybook-static",
+  "startedAt": 1757604664101,
+  "storybook": {
+    "version": "",
+    "builder": {
+      "name": "@storybook/builder-vite"
+    },
+    "baseDir": "."
+  },
+  "task": "upload",
+  "uploadedBytes": 0,
+  "uploadedFiles": 0,
+  "userError": false
+}
