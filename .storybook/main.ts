@@ -1,10 +1,10 @@
-// .storybook/main.ts (Vite)
 import type { StorybookConfig } from '@storybook/react-vite';
 import { mergeConfig } from 'vite';
 import path from 'path';
 
 const config: StorybookConfig = {
-  stories: ['../src/**/*.stories.@(ts|tsx|mdx)'],
+  // Only look inside components folder
+  stories: ['../src/components/**/*.stories.@(ts|tsx|mdx)'],
   addons: [
     '@storybook/addon-essentials',
     '@storybook/addon-interactions',
@@ -12,23 +12,13 @@ const config: StorybookConfig = {
   ],
   framework: { name: '@storybook/react-vite', options: {} },
   async viteFinal(base) {
-    const merged = mergeConfig(base, {
+    return mergeConfig(base, {
       resolve: {
-        alias: { components: path.resolve(__dirname, '../src/components') },
+        alias: {
+          components: path.resolve(__dirname, '../src/components'),
+        },
       },
-      build: {
-        rollupOptions: {
-          output: {
-            entryFileNames: '[name].js',    // stable JS filenames
-            chunkFileNames: '[name].js',    // stable chunk filenames
-            assetFileNames: '[name].[ext]'  // stable asset filenames
-          }
-        }
-      }
     });
-
-    console.log('[SB] Vite aliases:', merged.resolve?.alias);
-    return merged;
   },
 };
 
